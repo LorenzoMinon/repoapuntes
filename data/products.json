@@ -1,0 +1,6 @@
+{
+    "list": [
+        {"id": 1, "name": "alfajor", "price": 10.5},
+        {"id": 2, "name": "gaseosa", "price": 500}
+    ]
+}
